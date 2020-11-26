@@ -1,0 +1,6 @@
+<!-- https://mvnrepository.com/artifact/databricks/spark-redshift -->
+<dependency>
+    <groupId>databricks</groupId>
+    <artifactId>spark-redshift</artifactId>
+    <version>3.0.0-preview1</version>
+</dependency>
