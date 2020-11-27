@@ -4,13 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>uk.org.fca</groupId>
+        <groupId>uk.org<groupId>
         <artifactId>maven-parent-pom</artifactId>
         <version>1.0.0</version>
     </parent>
-    <groupId>uk.org.fca.mifid.xml</groupId>
+    <groupId>uk.org.xml</groupId>
     <artifactId>spark-xml_2.11</artifactId>
-    <name>Mifid-Onshoring-JSON</name> 
+    <name>Onshoring-JSON</name> 
     <version>0.9.0</version>   
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
